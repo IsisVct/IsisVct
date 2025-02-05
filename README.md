@@ -17,14 +17,6 @@ Sou apaixonada por tecnologia e desenvolvimento de software! Atualmente, estudo 
 
 <br>
 
-## 🔥 Projetos em Destaque  
-
-- 🎮 **[MathQuest](https://github.com/IsisVct/MathQuest)** – Uma plataforma gamificada para ensino de matemática focada no ENEM.  
-- 📚 **[WikiMath](https://github.com/IsisVct/WikiMath)** – Site interativo que explica conceitos matemáticos de forma dinâmica.  
-- 🎮 **Trex Running com Arduino** – Recriação do clássico jogo do Google Chrome usando hardware e programação.  
-
-🌟 **Confira todos os meus projetos no meu [GitHub](https://github.com/IsisVct/)!**  
-<br>
 
 ## 💻 Tech Stack  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
