@@ -1,42 +1,66 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=52057b&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF52A2&height=150&section=header&text=Isabelle%20Victoria%20de%20Souza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF52A2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+OCI+Enthusiast;Visao+Tecnica" alt="Typing SVG" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/isabelle-victoria/"><img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=FF52A2" alt="LinkedIn" /></a>
+  <a href="mailto:isabelle.vct.souza@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E28?style=for-the-badge&logo=gmail&logoColor=FF52A2" alt="Email" /></a>
+</div>
 
-# 💜 Isabelle Victória de Souza  
+<br>
 
-### **Dev FullStack | Estudante de Análise e Desenvolvimento de Sistemas** 💻  
+## 🎀 Sobre Mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/isabelle-victoria/)
-[![GitHub](https://img.shields.io/badge/GitHub-52057b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsisVct)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isabelle.vct.souza@gmail.com)
-<br><br>
+Sou uma desenvolvedora com formação técnica desde o ensino médio (ETEC) e atual estudante de **Análise e Desenvolvimento de Sistemas**, focada em criar soluções tecnológicas que geram impacto real. 
 
-## 🚀 Sobre Mim  
-Sou apaixonada por tecnologia e desenvolvimento de software! Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e me especializo em **desenvolvimento FullStack**. Adoro transformar ideias em soluções práticas e explorar novas tecnologias para melhorar experiências digitais.  
+Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e a **Gestão de Projetos**. Acredito que um bom código nasce de fluxos de trabalho bem definidos, ambientes colaborativos e diagnósticos precisos. Gosto de entender as regras de negócio a fundo antes de arquitetar uma solução, garantindo que o software resolva o problema certo.
 
-💡 Gosto de desafios e de aprender constantemente. Meu foco é construir projetos que tenham impacto real e sejam acessíveis para todos.  
+💡 **No meu radar atual:** 
+*   Aprofundamento no eixo de computação (Univesp).
+*   Estudos voltados para certificações em **Oracle Cloud Infrastructure (OCI)**.
+*   Exploração de modelos preditivos e NLP (BERT, TF-IDF).
+
+---
+
+## 🛠️ Stack Tecnológico
+
+| 💻 **Engenharia de Software** | ☁️ **Dados & Infraestrutura** |
+| :--- | :--- | 
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,php,java&theme=dark" height="30" /> <br> <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" height="30" /> | <img src="https://skillicons.dev/icons?i=mysql,fastapi&theme=dark" height="30" /> <br> **Scikit-learn, NLP, Oracle Cloud (OCI)** |
+| Múltiplos ecossistemas para web e integrações backend. | Modelagem de dados, construção de APIs robustas e arquitetura em nuvem. |
+
+<br>
+
+## 🚀 Portfólio & Casos de Uso
+
+<details open>
+  <summary><b>🔍 Monitor Regulatório Financeiro</b></summary>
+  <br>
+  Componente crítico desenvolvido em <b>C#</b>. O sistema realiza Web Scraping contínuo para extrair e monitorar atualizações regulatórias de instituições financeiras, garantindo a persistência segura desses dados no banco para análises de compliance.
+</details>
+
+<details open>
+  <summary><b>🧠 API de Análise de Sentimentos (Hackathon)</b></summary>
+  <br>
+  Projeto Full Stack(HAckatoon) focado em Inteligência Artificial. Desenvolvi um modelo de regrassão com jupyter notebook e uma api pra usar o modelo com <b>Python utilizando FastAPI</b> para processamento de linguagem natural, integrando a lógica de análise de sentimentos com uma interface construída em <b>React</b>.
+</details>
+
+<details open>
+  <summary><b>📦 Diagnóstico e Digitalização para o Varejo</b></summary>
+  <br>
+  Atuei diretamente na modernização de uma operação comercial. Realizei o diagnóstico inicial de uma revendedora de cosméticos que operava com registros em cadernos e desenvolvi a transição para um sistema digital eficiente de controle de pedidos e clientes.
+</details>
 
 <br>
 
 
-## 💻 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+## 🏆 Analytics & Tecnologias
 
-<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IsisVct&theme=radical&row=1&column=4&margin-w=15&no-frame=true&no-bg=true&v=1" alt="Trophies" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsisVct&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&icon_color=FFB6C1&show_icons=true&v=1" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsisVct&layout=compact&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&v=1" alt="Top Languages" height="150" />
+</div>
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsisVct&layout=compact&bg_color=000&border_color=30A3DC&title_color=7b2cbf&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsisVct&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7b2cbf&text_color=FFF)
-
-<br>
-
-## 🌎 Onde Me Encontrar  
-📩 **Email:** [isabelle.vct.souza@gmail.com](mailto:isabelle.vct.souza@gmail.com)  
-🔗 **LinkedIn:** [Isabelle Victoria](https://www.linkedin.com/in/isabelle-victoria/)  
-🐱 **GitHub:** [IsisVct](https://github.com/IsisVct)  
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=52057b&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF52A2&height=120&section=footer"/>
