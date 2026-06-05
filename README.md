@@ -24,12 +24,23 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 
 ## 🛠️ Stack Tecnológico
 
-| 💻 **Engenharia de Software** | ☁️ **Dados & Infraestrutura** |
-| :--- | :--- | 
-| <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,php,java&theme=dark" height="30" /> <br> <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" height="30" /> | <img src="https://skillicons.dev/icons?i=mysql,fastapi&theme=dark" height="30" /> <br> **Scikit-learn, NLP, Oracle Cloud (OCI)** |
-| Múltiplos ecossistemas para web e integrações backend. | Modelagem de dados e construção de APIs robustas. |
+**Engenharia de Software (Backend & Frontend)**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
+**Dados, IA & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
 
 ## 🚀 Portfólio & Casos de Uso
 
@@ -53,17 +64,18 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 
 <br>
 
-## 🏆 Analytics & Tecnologias
+## 🏆 Analytics & Atividades
+
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=IsisVct&theme=radical&row=1&column=4&margin-w=15&no-frame=true&no-bg=true)](https://github.com/IsisVct)
+  <!-- Estatísticas de Frequência (Servidor Alternativo) -->
+  <img src="https://streak-stats.demolab.com/?user=IsisVct&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&icon_color=FFB6C1&ring=FF52A2&fire=FF52A2&currStreakLabel=FF52A2" alt="GitHub Streak" height="160" />
 
-<br><br>
+  <br><br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsisVct&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&icon_color=FFB6C1&show_icons=true)](https://github.com/IsisVct)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsisVct&layout=compact&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF)](https://github.com/IsisVct)
-
+  <!-- Cobrinha (Snake) -->
+  <img src="https://raw.githubusercontent.com/IsisVct/IsisVct/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF52A2&height=120&section=footer"/>
