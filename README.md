@@ -42,7 +42,7 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 <details open>
   <summary><b>🧠 API de Análise de Sentimentos (Hackathon)</b></summary>
   <br>
-  Projeto Full Stack(HAckatoon) focado em Inteligência Artificial. Desenvolvi um modelo de regrassão com jupyter notebook e uma api pra usar o modelo com <b>Python utilizando FastAPI</b> para processamento de linguagem natural, integrando a lógica de análise de sentimentos com uma interface construída em <b>React</b>.
+  Projeto Full Stack focado em Inteligência Artificial. Desenvolvi um modelo de regressão utilizando Jupyter Notebook e uma API para consumir o modelo com <b>Python utilizando FastAPI</b> para processamento de linguagem natural, integrando a lógica de análise de sentimentos com uma interface construída em <b>React</b>.
 </details>
 
 <details open>
@@ -52,7 +52,6 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 </details>
 
 <br>
-
 
 ## 🏆 Analytics & Tecnologias
 
