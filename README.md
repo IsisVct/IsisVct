@@ -27,7 +27,7 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 | 💻 **Engenharia de Software** | ☁️ **Dados & Infraestrutura** |
 | :--- | :--- | 
 | <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,php,java&theme=dark" height="30" /> <br> <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" height="30" /> | <img src="https://skillicons.dev/icons?i=mysql,fastapi&theme=dark" height="30" /> <br> **Scikit-learn, NLP, Oracle Cloud (OCI)** |
-| Múltiplos ecossistemas para web e integrações backend. | Modelagem de dados, construção de APIs robustas e arquitetura em nuvem. |
+| Múltiplos ecossistemas para web e integrações backend. | Modelagem de dados e construção de APIs robustas. |
 
 <br>
 
@@ -57,10 +57,14 @@ Meu diferencial está na intersecção entre o **Desenvolvimento Full Stack** e 
 ## 🏆 Analytics & Tecnologias
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsisVct&theme=radical&row=1&column=4&margin-w=15&no-frame=true&no-bg=true&v=1" alt="Trophies" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=IsisVct&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&icon_color=FFB6C1&show_icons=true&v=1" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsisVct&layout=compact&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&v=1" alt="Top Languages" height="150" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=IsisVct&theme=radical&row=1&column=4&margin-w=15&no-frame=true&no-bg=true)](https://github.com/IsisVct)
+
+<br><br>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsisVct&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF&icon_color=FFB6C1&show_icons=true)](https://github.com/IsisVct)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsisVct&layout=compact&theme=transparent&hide_border=true&title_color=FF52A2&text_color=FFF)](https://github.com/IsisVct)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF52A2&height=120&section=footer"/>
