@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF52A2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+OCI+Enthusiast;Visao+Tecnica" alt="Typing SVG" />
   <br><br>
-  <a href="https://www.linkedin.com/in/isabelle-victoria/"><img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=FF52A2" alt="LinkedIn" /></a>
+  <a href="https://portfolio-isabelle-souza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-1E1E28?style=for-the-badge&logo=google-chrome&logoColor=FF52A2" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/isabelle-victoria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E1E28?style=for-the-badge&logo=linkedin&logoColor=FF52A2" alt="LinkedIn" /></a>
   <a href="mailto:isabelle.vct.souza@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E28?style=for-the-badge&logo=gmail&logoColor=FF52A2" alt="Email" /></a>
 </div>
 
