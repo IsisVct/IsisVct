@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF52A2&height=150&section=header&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&pause=1000&color=f5f5f5&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false" alt="Isabelle Victoria de Souza" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=f5f5f5&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false" alt="Isabelle Victoria de Souza" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF52A2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+OCI+Enthusiast" alt="Typing SVG" />
   <br><br>
   <a href="https://portfolio-isabelle-souza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-1E1E28?style=for-the-badge&logo=google-chrome&logoColor=FC7EC6" alt="Portfólio" /></a>
