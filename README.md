@@ -3,10 +3,10 @@
 <div align="center">
 <picture>
   <!-- Imagem que aparece no TEMA CLARO (Cor escura: 1E1E28) -->
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=1E1E28&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=FC7EC6&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false">
   
   <!-- Imagem padrão / TEMA ESCURO (Cor clara: f5f5f5) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=f5f5f5&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false" alt="Isabelle Victoria de Souza">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=1&color=FC7EC6&center=true&vCenter=true&width=800&height=100&lines=Isabelle+Victoria+de+Souza&repeat=false" alt="Isabelle Victoria de Souza">
 </picture>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF52A2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+OCI+Enthusiast" alt="Typing SVG" />
   <br><br>
